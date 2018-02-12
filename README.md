@@ -14,8 +14,6 @@ Copy and paste the token into [config.js] slackToken variable
 You also need to have node.js installed to run the script. Currently it works on Windows and macOS only.
 Install nodejs using this link: https://nodejs.org/en/download/
 
-    node app.js
-
 ## Things to know
 
 Be careful with defining a updateInterval value that is too low. Slack will block requests for status change if done too frequently.
