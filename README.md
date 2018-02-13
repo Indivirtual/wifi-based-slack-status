@@ -18,7 +18,7 @@ Install nodejs using this link: https://nodejs.org/en/download/
 
 Be careful with defining a updateInterval value that is too low. Slack will block requests for status change if done too frequently.
 Run this programa as a service (in Windows) using NSSM (the Non Sucking Service Manager) at http://nssm.cc/
-Check the Indivirtual blog for more information on how to do this: https://blog.indivirtual.nl/update-slack-sta…ly-using-node-js/
+Check the Indivirtual blog for more information on how to do this: https://blog.indivirtual.nl/update-slack-status-automatically-using-node-js
 
 ## Shoutout
 Thanks for Lukasz Wiktor for the initial code: https://github.com/LukaszWiktor/slack-status-based-on-wifi-name
