@@ -1,13 +1,13 @@
 {
   "name": "wifi-based-slack-status",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Set your status on Slack based on the WiFi network you are connected to.",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Indivirtual/wifi-based-slack-status/.git"
+    "url": "git+https://github.com/Indivirtual/wifi-based-slack-status.git"
   },
-  "author": "Lukasz Wiktor",
+  "author": "Hendrik Beenker",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/Indivirtual/wifi-based-slack-status/issues"
