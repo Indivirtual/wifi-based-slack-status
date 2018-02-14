@@ -71,7 +71,7 @@ switch (platform) {
     break;
   default:
     console.error('Unknown platform %s', platform);
-    process.exit(2);
+    process.exit(1);
 }
 
 setInterval(function() {
