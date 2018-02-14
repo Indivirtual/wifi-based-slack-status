@@ -19,4 +19,4 @@ module.exports = {
     //updateInterval: 300000 // every 5 minutes
     //updateInterval: 600000 // every 10 minutes
     updateInterval: 1800000 // every 30 minutes
-}
+};
