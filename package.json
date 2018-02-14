@@ -1,20 +1,20 @@
 {
-  "name": "slack-status-based-on-wifi-name",
+  "name": "wifi-based-slack-status",
   "version": "0.0.1",
-  "description": "Set your status on Slack based on the WiFi network you are connected to.",
+  "description": "Setting your Slack status based on Wi-Fi using Node.js",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LukaszWiktor/slack-status-based-on-wifi-name.git"
+    "url": "git+https://github.com/Indivirtual/wifi-based-slack-status"
   },
-  "author": "Lukasz Wiktor",
+  "author": "Hendrik Beenker",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/LukaszWiktor/slack-status-based-on-wifi-name/issues"
+    "url": "https://github.com/Indivirtual/wifi-based-slack-status/issues"
   },
-  "homepage": "https://github.com/LukaszWiktor/slack-status-based-on-wifi-name#readme",
+  "homepage": "https://blog.indivirtual.nl/update-slack-sta…ly-using-node-js",
   "dependencies": {
-    "axios": "0.16.1",
+    "axios": "^0.16.2",
     "dotenv": "^4.0.0"
   }
 }
